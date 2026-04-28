@@ -1,0 +1,23 @@
+# codecov.yml — Codecov configuration for pyserep
+# https://docs.codecov.com/docs/codecovyml-reference
+
+coverage:
+  status:
+    project:
+      default:
+        target: 80%          # minimum project coverage
+        threshold: 2%        # allow 2% drop before failing
+    patch:
+      default:
+        target: 70%          # new code in PRs
+
+ignore:
+  - "examples/*"
+  - "benchmarks/*"
+  - "docs/*"
+  - "tests/*"
+
+comment:
+  layout: "reach,diff,flags,tree"
+  behavior: default
+  require_changes: false

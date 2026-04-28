@@ -1,0 +1,53 @@
+cff-version: 1.2.0
+message: >
+  If you use pyserep in your research, please cite it using the metadata below.
+  For the associated journal paper, see the JOSS publication once available.
+
+title: "pyserep: SEREP-Based Reduced Order Modelling for Large-Scale
+        Structural Dynamics Problems"
+version: 3.0.0
+date-released: "2026"
+license: MIT
+
+authors:
+  - name: "Krithish Surya S"
+    affiliation: "Vellore Institute of Technology, Vellore, India;
+                  Indian Institute of Technology Madras, Chennai, India"
+    orcid: "https://orcid.org/0000-XXXX-XXXX-XXXX"
+
+repository-code: "https://github.com/KrithishSurya/pyserep"
+url: "https://pyserep.readthedocs.io"
+
+abstract: >
+  pyserep is a production-grade Python library implementing the System
+  Equivalent Reduction Expansion Process (SEREP) for model order reduction
+  of large-scale structural dynamics finite element models. It provides exact
+  eigenvalue preservation, direct FRF computation via impedance inversion,
+  Effective Independence DOF selection, selective frequency band analysis,
+  and a complete validation suite. Requires real symmetric positive
+  semi-definite stiffness and positive definite mass matrices.
+
+keywords:
+  - SEREP
+  - model order reduction
+  - structural dynamics
+  - finite element analysis
+  - frequency response function
+  - structural engineering
+  - vibration
+  - Python
+  - reduced order model
+  - eigenvalue preservation
+
+preferred-citation:
+  type: article
+  title: "pyserep: A Python Library for SEREP-Based Reduced Order Modelling
+          of Large-Scale Structural Dynamics Problems"
+  authors:
+    - name: "Krithish Surya S"
+      affiliation: "Vellore Institute of Technology, Vellore, India;
+                    Indian Institute of Technology Madras, Chennai, India"
+      orcid: "https://orcid.org/0000-XXXX-XXXX-XXXX"
+  journal: "Journal of Open Source Software"
+  year: 2026
+  url: "https://github.com/KrithishSurya/pyserep"
