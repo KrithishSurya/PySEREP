@@ -11,7 +11,7 @@ tags:
   - frequency response function
 authors:
   - name: Krithish Surya
-    orcid: 0000-XXXX-XXXX-XXXX
+    orcid: 0009-0001-8980-9732
     affiliation: 1
 affiliations:
   - name: Department of Mechanical Engineering, Vellore Institute of Technology,
