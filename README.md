@@ -5,7 +5,7 @@
 > **Symmetric matrices required.** Both K and M must be symmetric. K must be positive semi-definite, M must be positive definite. The matrix loader warns automatically if this is violated.
 
 [![CI](https://github.com/KrithishSurya/pyserep/actions/workflows/ci.yml/badge.svg)](https://github.com/KrithishSurya/pyserep/actions)
-[![codecov](https://codecov.io/gh/KrithishSurya/pyserep/graph/badge.svg)](https://codecov.io/gh/YourOrg/pyserep)
+[![codecov](https://codecov.io/gh/KrithishSurya/pyserep/graph/badge.svg)](https://codecov.io/gh/KrithishSurya/pyserep)
 [![Python](https://img.shields.io/badge/python-3.9%2B-blue)](https://www.python.org)
 [![PyPI](https://img.shields.io/pypi/v/pyserep)](https://pypi.org/project/pyserep/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
