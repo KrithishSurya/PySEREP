@@ -10,7 +10,7 @@
 [![PyPI](https://img.shields.io/pypi/v/pyserep)](https://pypi.org/project/pyserep/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Docs](https://readthedocs.org/projects/pyserep/badge/?version=latest)](https://pyserep.readthedocs.io)
-[![JOSS](https://joss.theoj.org/papers/placeholder/badge.svg)](https://joss.theoj.org)
+<!-- [![JOSS](https://joss.theoj.org/papers/placeholder/badge.svg)](https://joss.theoj.org) -->
 
 ---
 
