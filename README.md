@@ -4,13 +4,13 @@
 
 > **Symmetric matrices required.** Both K and M must be symmetric. K must be positive semi-definite, M must be positive definite. The matrix loader warns automatically if this is violated.
 
-[![CI](https://github.com/YourOrg/pyserep/actions/workflows/ci.yml/badge.svg)](https://github.com/YourOrg/pyserep/actions)
-[![codecov](https://codecov.io/gh/YourOrg/pyserep/graph/badge.svg)](https://codecov.io/gh/YourOrg/pyserep)
+[![CI](https://github.com/KrithishSurya/pyserep/actions/workflows/ci.yml/badge.svg)](https://github.com/KrithishSurya/pyserep/actions)
+[![codecov](https://codecov.io/gh/KrithishSurya/pyserep/graph/badge.svg)](https://codecov.io/gh/KrithishSurya/pyserep)
 [![Python](https://img.shields.io/badge/python-3.9%2B-blue)](https://www.python.org)
-[![PyPI](https://img.shields.io/pypi/v/pyserep)](https://pypi.org/project/pyserep)
+[![PyPI](https://img.shields.io/pypi/v/pyserep)](https://pypi.org/project/pyserep/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Docs](https://readthedocs.org/projects/pyserep/badge/?version=latest)](https://pyserep.readthedocs.io)
-[![JOSS](https://joss.theoj.org/papers/placeholder/badge.svg)](https://joss.theoj.org)
+<!-- [![JOSS](https://joss.theoj.org/papers/placeholder/badge.svg)](https://joss.theoj.org) -->
 
 ---
 
@@ -80,7 +80,7 @@ Kₐ = Tᵀ K T        Mₐ = Tᵀ M T
 
 | Library | SEREP | Direct FRF | EID DOF selection | Selective bands |
 |---|:---:|:---:|:---:|:---:|
-| **pyserep** (this) | ✅ | ✅ | ✅ | ✅ |
+| **PySEREP** | ✅ | ✅ | ✅ | ✅ |
 | pyMOR | ❌ | ❌ | ❌ | ❌ |
 | pyFBS | ❌ | ❌ | ❌ | ❌ |
 | SDyPy | ❌ | ❌ | ❌ | ❌ |
@@ -381,7 +381,7 @@ pyserep/
 
 ## Comparison with Related Libraries
 
-| | **pyserep** | pyMOR | pyFBS | SDyPy |
+| | **PySEREP** | pyMOR | pyFBS | SDyPy |
 |---|---|---|---|---|
 | **SEREP ROM** | ✅ Full implementation | ❌ | ❌ | ❌ |
 | **Direct FRF** (impedance) | ✅ | ❌ | ❌ | ❌ |
