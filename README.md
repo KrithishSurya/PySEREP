@@ -142,7 +142,7 @@ pip install pyserep
 
 Or from source:
 ```bash
-git clone https://github.com/YourOrg/pyserep.git
+git clone https://github.com/KrithishSurya/pyserep.git
 cd pyserep
 pip install -e ".[dev]"
 ```
@@ -404,7 +404,7 @@ If you use this library in academic work, please cite:
   author  = {Surya, Krithish},
   title   = {pyserep: SEREP-Based Reduced Order Modelling for Structural Dynamics Problems},
   year    = {2025},
-  url     = {https://github.com/YourOrg/pyserep},
+  url     = {https://github.com/KrithishSurya/pyserep},
   version = {3.0.0}
 }
 ```
