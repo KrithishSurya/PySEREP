@@ -400,7 +400,7 @@ pyserep/
 If you use this library in academic work, please cite:
 
 ```bibtex
-@software{pyserep_2025,
+@software{pyserep_2026,
   author  = {Krithish Surya},
   title   = {pyserep: SEREP-Based Reduced Order Modelling for Structural Dynamics Problems},
   year    = {2025},
