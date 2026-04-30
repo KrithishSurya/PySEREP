@@ -12,11 +12,16 @@ tags:
 authors:
   - name: Krithish Surya
     orcid: 0009-0001-8980-9732
-    affiliation: 1
+    affiliation: 1, 2
 affiliations:
   - name: Department of Mechanical Engineering, Vellore Institute of Technology,
           Vellore, Tamil Nadu, India
     index: 1
+
+  - name: The Uncertainty Laboratory, Department of Applied Mechanics, 
+          Indian Institute of Technology Madras,
+          Chennai, Tamil Nadu, India
+    index: 2
 date: 2025
 bibliography: paper.bib
 ---
@@ -169,9 +174,10 @@ spring-mass chain models of varying sizes.
 
 # Acknowledgements
 
-The author thanks the VIT Vellore Department of Mechanical Engineering for
-providing the computational resources and academic environment for this work.
-The Garteur SM-AG19 benchmark structure used for validation is publicly
+The author thanks the VIT Vellore Department of Mechanical Engineering and Professor Sayan Gupta 
+from The Uncertainty Laboratory, Department of Applied Mechanics, 
+Indian Institute of Technology Madras for providing the computational resources and academic environment 
+for this work. The Garteur SM-AG19 benchmark structure used for validation is publicly
 described in @Balmes1997.
 
 # References
