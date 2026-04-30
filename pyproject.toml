@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "pyserep"
-version = "3.0.0"
+version = "3.1.0"
 description = "System Equivalent Reduction Expansion Process (SEREP) — production-grade Reduced Order Modelling for large-scale structural dynamics problems"
 readme = "README.md"
 license = { file = "LICENSE" }
