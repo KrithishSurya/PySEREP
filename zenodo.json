@@ -1,0 +1,65 @@
+{
+  "title": "pyserep: SEREP-Based Reduced Order Modelling for Large-Scale Structural Dynamics Problems",
+  "description": "pyserep is a Python library implementing the System Equivalent Reduction Expansion Process (SEREP) for model order reduction of large-scale structural dynamics finite element models. It provides exact eigenvalue preservation, direct FRF computation via impedance inversion (Z(omega)^-1), Effective Independence DOF selection (DS4), selective non-contiguous frequency band analysis, sensitivity analysis, Monte Carlo uncertainty quantification, and a complete validation suite. Validated on the Garteur SM-AG19 benchmark structure (66,525 DOFs reduced to 37 master DOFs with maximum eigenvalue error of 7e-7%). Requires real symmetric positive semi-definite stiffness and positive definite mass matrices.",
+  "version": "3.1.0",
+  "upload_type": "software",
+  "license": "MIT",
+  "language": "eng",
+  "creators": [
+    {
+      "name": "Krithish Surya",
+      "affiliation": "School of Mechanical Engineering (SMEC), Vellore Institute of Technology, Vellore, Tamil Nadu, India",
+      "orcid": "0009-0001-8980-9732"
+    },
+	{
+      "name": "Biswal, Deepak Kumar",
+      "affiliation": "School of Mechanical Engineering (SMEC), Vellore Institute of Technology, Vellore, Tamil Nadu, India",
+
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Gupta, Sayan",
+      "affiliation": "The Uncertainty Laboratory, Department of Applied Mechanics, Indian Institute of Technology Madras, Chennai, Tamil Nadu, India",
+      "type": "Supervisor"
+    },
+    {
+      "name": "Biswal, Deepak Kumar",
+      "affiliation": "School of Mechanical Engineering (SMEC), Vellore Institute of Technology, Vellore, Tamil Nadu, India",
+      "type": "Supervisor"
+    }
+  ],
+  "keywords": [
+    "SEREP",
+    "model order reduction",
+    "structural dynamics",
+    "finite element analysis",
+    "frequency response function",
+    "vibration",
+    "Python",
+    "reduced order model",
+    "eigenvalue preservation",
+    "Effective Independence",
+    "direct FRF",
+    "impedance inversion"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/KrithishSurya/PySEREP",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    },
+    {
+      "identifier": "https://pypi.org/project/pyserep/",
+      "relation": "isIdenticalTo",
+      "resource_type": "software"
+    },
+    {
+      "identifier": "https://pyserep.readthedocs.io",
+      "relation": "isDocumentedBy",
+      "resource_type": "other"
+    }
+  ],
+  "access_right": "open",
+  "notes": "Developed during research internship at the Uncertainty Laboratory, IIT Madras, as part of B.Tech thesis at VIT Vellore. Supervised by Prof. Sayan Gupta (IIT Madras) and Dr. Deepak Kumar Biswal (VIT Vellore)."
+}
