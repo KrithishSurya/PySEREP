@@ -405,7 +405,7 @@ If you use this library in academic work, please cite:
   title   = {pyserep: SEREP-Based Reduced Order Modelling for Structural Dynamics Problems},
   year    = {2025},
   url     = {https://github.com/KrithishSurya/pyserep},
-  version = {3.0.0}
+  version = {3.1.0}
 }
 ```
 
