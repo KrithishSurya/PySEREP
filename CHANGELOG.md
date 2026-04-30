@@ -1,5 +1,21 @@
 # Changelog
 
+## [3.1.0] — 2026
+
+### Changed
+- Broadened scope from aerospace to all structural dynamics problems
+- Symmetric matrix requirement formally documented throughout
+- Added check_symmetric_pd() function for pre-flight matrix validation
+- Symmetry check in load_matrix now raises ValueError for asymmetry > 1%
+
+### Fixed
+- UnicodeEncodeError on Windows when writing summary files (exporter.py)
+- Docstring formatting issues in docs build
+
+### Added
+- CITATION.cff dual affiliation (VIT Vellore + IIT Madras)
+- Codecov integration and coverage reporting
+
 ## [3.0.0] — 2025
 
 ### Added
