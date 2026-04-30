@@ -5,7 +5,7 @@ message: >
 
 title: "pyserep: SEREP-Based Reduced Order Modelling for Large-Scale
         Structural Dynamics Problems"
-version: 3.0.0
+version: 3.1.0
 date-released: "2026"
 license: MIT
 
@@ -47,7 +47,7 @@ preferred-citation:
     - name: "Krithish Surya S"
       affiliation: "Vellore Institute of Technology, Vellore, India;
                     Indian Institute of Technology Madras, Chennai, India"
-      orcid: "https://orcid.org/0000-XXXX-XXXX-XXXX"
+      orcid: "https://orcid.org/0009-0001-8980-9732"
   journal: "Journal of Open Source Software"
   year: 2026
   url: "https://github.com/KrithishSurya/pyserep"
