@@ -1,6 +1,6 @@
 # pyserep
 
-**Production-grade Python library for SEREP-based Reduced Order Modelling for structural dynamics problems.**
+**Python library for SEREP-based Reduced Order Modelling for structural dynamics problems.**
 
 > **Symmetric matrices required.** Both K and M must be symmetric. K must be positive semi-definite, M must be positive definite. The matrix loader warns automatically if this is violated.
 
@@ -401,7 +401,7 @@ If you use this library in academic work, please cite:
 
 ```bibtex
 @software{pyserep_2025,
-  author  = {Surya, Krithish},
+  author  = {Krithish Surya},
   title   = {pyserep: SEREP-Based Reduced Order Modelling for Structural Dynamics Problems},
   year    = {2025},
   url     = {https://github.com/KrithishSurya/pyserep},
