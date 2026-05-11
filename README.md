@@ -403,7 +403,7 @@ If you use this library in academic work, please cite:
 @software{pyserep_2026,
   author  = {Krithish Surya},
   title   = {pyserep: SEREP-Based Reduced Order Modelling for Structural Dynamics Problems},
-  year    = {2025},
+  year    = {2026},
   url     = {https://github.com/KrithishSurya/pyserep},
   version = {3.1.0}
 }
